@@ -10,3 +10,4 @@
   <li>Busca Sequencial - transposição</li>
   <li>Busca Binária</li>
   <li>Busca Binária Recursiva</li>
+  <li>Força Bruta</li>
